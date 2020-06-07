@@ -7,11 +7,15 @@
 
 ## General info
 This project has been developped during an internship at the Pasteur Institute in French Guiana.
+
 Its aim is to get a multi-alignement in nucleotids from a multi-alignement in amino acids allowing 
-to have a better phylogenetic studies.
+better phylogenetic studies.
+ 
+Warning : the open_aln function is a text oriented function and therefore only works with a very specific NGS text file output
+pattern which you can find in images and in the function's description. It can easily be adapted.
 	
 ## Technologies
 Project is created with:
 * Python 3
-* BioPython object-oriented library
+* BioPython library
 * Tkinter

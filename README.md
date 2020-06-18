@@ -9,7 +9,9 @@
 This project has been developped during an internship at the Pasteur Institute in French Guiana, at the Laboratory of Virus-Host Interactions.
 
 Its aim is to get a multi-alignement in nucleotids from a multi-alignement in amino acids allowing 
-better phylogenetic studies.
+better phylogenetic studies. 
+
+It is part of a larger pipe-line developped by the lab, which will soon be published.
 	
 ## Technologies
 Project is created with:

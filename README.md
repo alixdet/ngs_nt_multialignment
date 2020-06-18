@@ -11,7 +11,7 @@ This project has been developped during an internship at the Pasteur Institute i
 Its aim is to get a multi-alignement in nucleotids from a multi-alignement in amino acids allowing 
 better phylogenetic studies. 
 
-The purpose of the code here is not to be used as is but to be integreted in a larger pipeline that is being developped by the lab. The whole will soon be published.
+The purpose of the code here is not to be used as is but to be integreted in a larger pipeline that is being developped by the lab. The whole will be published soon.
 	
 ## Technologies
 Project is created with:

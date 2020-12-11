@@ -5,8 +5,6 @@ Created on Fri Feb 14 13:49:40 2020
 
 @author: alix de thoisy
 @ Institut Pasteur de Guyane
-
-should first be modified in prot_to_nt_multi_aligned.py
 """
 import sys
 
